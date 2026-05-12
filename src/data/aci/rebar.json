@@ -1,0 +1,11 @@
+{
+  "#3": { "diameter": 0.375, "area": 0.11 },
+  "#4": { "diameter": 0.500, "area": 0.20 },
+  "#5": { "diameter": 0.625, "area": 0.31 },
+  "#6": { "diameter": 0.750, "area": 0.44 },
+  "#7": { "diameter": 0.875, "area": 0.60 },
+  "#8": { "diameter": 1.000, "area": 0.79 },
+  "#9": { "diameter": 1.128, "area": 1.00 },
+  "#10": { "diameter": 1.270, "area": 1.27 },
+  "#11": { "diameter": 1.410, "area": 1.56 }
+}

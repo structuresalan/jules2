@@ -1,0 +1,34 @@
+{
+  "AISC 360-22": {
+    "phi_b": 0.90,
+    "omega_b": 1.67,
+    "phi_t": 0.90,
+    "omega_t": 1.67,
+    "phi_c": 0.90,
+    "omega_c": 1.67
+  },
+  "AISC 360-16": {
+    "phi_b": 0.90,
+    "omega_b": 1.67,
+    "phi_t": 0.90,
+    "omega_t": 1.67,
+    "phi_c": 0.90,
+    "omega_c": 1.67
+  },
+  "AISC 360-10": {
+    "phi_b": 0.90,
+    "omega_b": 1.67,
+    "phi_t": 0.90,
+    "omega_t": 1.67,
+    "phi_c": 0.90,
+    "omega_c": 1.67
+  },
+  "AISC 360-05": {
+    "phi_b": 0.90,
+    "omega_b": 1.67,
+    "phi_t": 0.90,
+    "omega_t": 1.67,
+    "phi_c": 0.90,
+    "omega_c": 1.67
+  }
+}

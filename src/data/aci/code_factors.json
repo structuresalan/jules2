@@ -1,0 +1,30 @@
+{
+  "ACI 318-19": {
+    "phi_tension_controlled": 0.90,
+    "phi_compression_tied": 0.65,
+    "phi_compression_spiral": 0.75,
+    "phi_shear": 0.75,
+    "beta1_limit": 0.85
+  },
+  "ACI 318-14": {
+    "phi_tension_controlled": 0.90,
+    "phi_compression_tied": 0.65,
+    "phi_compression_spiral": 0.75,
+    "phi_shear": 0.75,
+    "beta1_limit": 0.85
+  },
+  "ACI 318-11": {
+    "phi_tension_controlled": 0.90,
+    "phi_compression_tied": 0.65,
+    "phi_compression_spiral": 0.75,
+    "phi_shear": 0.75,
+    "beta1_limit": 0.85
+  },
+  "ACI 318-08": {
+    "phi_tension_controlled": 0.90,
+    "phi_compression_tied": 0.65,
+    "phi_compression_spiral": 0.75,
+    "phi_shear": 0.75,
+    "beta1_limit": 0.85
+  }
+}
