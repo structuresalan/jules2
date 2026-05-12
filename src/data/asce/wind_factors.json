@@ -1,0 +1,62 @@
+{
+  "ASCE 7-22": {
+    "directionality_factor_Kd": {
+      "MWFRS (Building)": 0.85,
+      "Components & Cladding": 0.85,
+      "Arched Roofs": 0.85,
+      "Chimneys, Tanks, Solid Signs": 0.90,
+      "Open Signs & Lattice Framework": 0.85,
+      "Trussed Towers": 0.85
+    },
+    "exposure_constants": {
+      "B": { "alpha": 7.0, "zg": 1200 },
+      "C": { "alpha": 9.5, "zg": 900 },
+      "D": { "alpha": 11.5, "zg": 700 }
+    }
+  },
+  "ASCE 7-16": {
+    "directionality_factor_Kd": {
+      "MWFRS (Building)": 0.85,
+      "Components & Cladding": 0.85,
+      "Arched Roofs": 0.85,
+      "Chimneys, Tanks, Solid Signs": 0.90,
+      "Open Signs & Lattice Framework": 0.85,
+      "Trussed Towers": 0.85
+    },
+    "exposure_constants": {
+      "B": { "alpha": 7.0, "zg": 1200 },
+      "C": { "alpha": 9.5, "zg": 900 },
+      "D": { "alpha": 11.5, "zg": 700 }
+    }
+  },
+  "ASCE 7-10": {
+    "directionality_factor_Kd": {
+      "MWFRS (Building)": 0.85,
+      "Components & Cladding": 0.85,
+      "Arched Roofs": 0.85,
+      "Chimneys, Tanks, Solid Signs": 0.90,
+      "Open Signs & Lattice Framework": 0.85,
+      "Trussed Towers": 0.85
+    },
+    "exposure_constants": {
+      "B": { "alpha": 7.0, "zg": 1200 },
+      "C": { "alpha": 9.5, "zg": 900 },
+      "D": { "alpha": 11.5, "zg": 700 }
+    }
+  },
+  "ASCE 7-05": {
+    "directionality_factor_Kd": {
+      "MWFRS (Building)": 0.85,
+      "Components & Cladding": 0.85,
+      "Arched Roofs": 0.85,
+      "Chimneys, Tanks, Solid Signs": 0.90,
+      "Open Signs & Lattice Framework": 0.85,
+      "Trussed Towers": 0.85
+    },
+    "exposure_constants": {
+      "B": { "alpha": 7.0, "zg": 1200 },
+      "C": { "alpha": 9.5, "zg": 900 },
+      "D": { "alpha": 11.5, "zg": 700 }
+    }
+  }
+}
